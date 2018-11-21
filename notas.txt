@@ -1,0 +1,23 @@
+
+modulo 
+nodemon para que se ejecute el servidor cada que se modifica algo
+npm i nodemon -D
+-D para que solo sea dependencia de desarrollo
+
+npm i morgan
+ayuda a ver por consola que requiere el usuario
+
+
+mongo DB
+se debe instalar
+npm i mongoose
+sirve para conectarnos a la db y para modelar
+
+iniciar mongoDB luego de instalarse descargar desde pagina oficial
+https://platzi.com/blog/como-instalar-mongodb-en-window-linux-y-mac/
+
+mongod para iniciar mongo
+
+
+
+
